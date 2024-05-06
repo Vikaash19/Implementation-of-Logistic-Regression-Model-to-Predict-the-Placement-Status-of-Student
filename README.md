@@ -17,7 +17,8 @@ step-1:start
 
 ## Program:
 ```
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Program to implement the the Logistic Regression Model to
+Predict the Placement Status of Student.
 Developed by: VIKAASH K S
 RegisterNumber: 212223240179
 import pandas as pd
